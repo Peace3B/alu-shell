@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#first exercise
-
-END=10
-for _ in $(seq 1 $END); do echo "Best School";done
+#this is a comment
+for _ in {1..10};do
+echo 'Best School'
+done
