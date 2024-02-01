@@ -1,7 +1,15 @@
 #!/usr/bin/env bash
-#Creating a script that uses a while loop
-count=0
-while [ $count -lt 10 ]; do
-  echo "Best School"
-  count=$((count + 1))
+#this is a comment
+i=0
+
+
+
+while [ $i -lt 10 ]
+
+do
+
+    echo "Best School"
+
+    i=$((i+1))
+
 done
