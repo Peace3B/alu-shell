@@ -1,4 +1,4 @@
- #!/usr/bin/env bash
+#!/usr/bin/env bash
 # This script displays numbers from 1 to 100, applying FizzBuzz rules.
 
 for ((i=1; i<=100; i++)); do
