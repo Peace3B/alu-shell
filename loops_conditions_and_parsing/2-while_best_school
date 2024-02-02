@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Diplay "Best School" using while lopp 10 times
+i=1
+while [ "$i" -le 10 ]
+do  
+        echo "Best School"
+        i=$(( i+1 ))
+done
